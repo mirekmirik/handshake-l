@@ -1,5 +1,4 @@
-@charset "UTF-8";
-/* line 1, D:/кеменгер-макет/src/sass/resets.scss */
+/* line 1, D:/handshake-l/src/sass/resets.scss */
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -21,40 +20,40 @@ time, mark, audio, video {
   vertical-align: baseline;
 }
 
-/* line 21, D:/кеменгер-макет/src/sass/resets.scss */
+/* line 21, D:/handshake-l/src/sass/resets.scss */
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
   display: block;
 }
 
-/* line 25, D:/кеменгер-макет/src/sass/resets.scss */
+/* line 25, D:/handshake-l/src/sass/resets.scss */
 html {
   height: 100%;
 }
 
-/* line 28, D:/кеменгер-макет/src/sass/resets.scss */
+/* line 28, D:/handshake-l/src/sass/resets.scss */
 body {
   line-height: 1;
 }
 
-/* line 31, D:/кеменгер-макет/src/sass/resets.scss */
+/* line 31, D:/handshake-l/src/sass/resets.scss */
 ol, ul {
   list-style: none;
 }
 
-/* line 34, D:/кеменгер-макет/src/sass/resets.scss */
+/* line 34, D:/handshake-l/src/sass/resets.scss */
 blockquote, q {
   quotes: none;
 }
 
-/* line 37, D:/кеменгер-макет/src/sass/resets.scss */
+/* line 37, D:/handshake-l/src/sass/resets.scss */
 blockquote:before, blockquote:after,
 q:before, q:after {
   content: '';
   content: none;
 }
 
-/* line 42, D:/кеменгер-макет/src/sass/resets.scss */
+/* line 42, D:/handshake-l/src/sass/resets.scss */
 table {
   border-collapse: collapse;
   border-spacing: 0;
