@@ -504,6 +504,14 @@ table {
   color: #000000;
 }
 
+.title--white {
+  color: #FFFFFF;
+}
+
+.subtitle--white {
+  color: #FFFFFF;
+}
+
 .input {
   background: #FFFFFF;
   border: 2px solid #FFFFFF;
@@ -820,6 +828,7 @@ a {
 
 .sixth-section {
   min-height: 830px;
+  margin-bottom: 110px;
 }
 .sixth-section__title {
   margin-bottom: 100px;
@@ -843,6 +852,65 @@ a {
 }
 .sixth-section__img-wrapper {
   text-align: center;
+}
+
+.seventh-section {
+  z-index: 0;
+  position: relative;
+  overflow: hidden;
+  padding-top: 37.89px;
+  min-height: 595px;
+  background: #EBEEF3;
+}
+.seventh-section__title {
+  margin-bottom: 35px;
+}
+.seventh-section__subtitle {
+  margin-bottom: 147px;
+}
+.seventh-section__market-link {
+  margin-right: 41px;
+  z-index: 1;
+}
+.seventh-section__market-link:last-child {
+  margin-right: 0px;
+}
+.seventh-section__market-img {
+  z-index: 1;
+}
+.seventh-section__img-phone {
+  position: absolute;
+  top: 323px;
+  left: 35.89%;
+  z-index: -1;
+}
+
+.latest-section {
+  min-height: 461px;
+  padding: 110px 0px;
+  background: #0F1035;
+}
+.latest-section__title {
+  margin-bottom: 40px;
+}
+.latest-section__subtitle {
+  margin-bottom: 40px;
+}
+.latest-section__form {
+  display: flex;
+  justify-content: center;
+  height: 100%;
+}
+.latest-section__form-btn {
+  height: 46px;
+  padding: 13px 27px;
+}
+.latest-section__form-input {
+  margin-right: 32px;
+}
+
+.btn--red {
+  background: #FF1100;
 }
 
 @media (max-width: 1199px) {
